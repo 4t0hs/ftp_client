@@ -6,3 +6,5 @@
 #define FTP_CMD_QUIT	"QUIT"
 #define FTP_CMD_PASV	"PASV"
 #define FTP_CMD_MODE	"MODE"
+#define FTP_CMD_RETR	"RETR"
+
