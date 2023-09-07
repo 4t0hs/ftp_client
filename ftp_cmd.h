@@ -1,0 +1,8 @@
+#define FTP_CMD_USER	"USER"
+#define FTP_CMD_PASS	"PASS"
+#define FTP_CMD_LIST	"LIST"
+#define FTP_CMD_PORT	"PORT"
+#define FTP_CMD_CWD		"CWD"
+#define FTP_CMD_QUIT	"QUIT"
+#define FTP_CMD_PASV	"PASV"
+#define FTP_CMD_MODE	"MODE"
